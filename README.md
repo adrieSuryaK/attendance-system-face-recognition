@@ -8,3 +8,4 @@ Preliminaries:
 4. face-recognition 1.3.0
 5. opencv-python 4.5.4.6
 6. cvzone 1.5.6
+7. firebase
